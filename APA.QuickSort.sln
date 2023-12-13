@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APA.QuickSort.Lib", "src\APA.QuickSort.Lib\APA.QuickSort.Lib.csproj", "{B4918663-FF61-44D3-8B7F-F8D4605052EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APA.QuickSort", "src\APA.QuickSort\APA.QuickSort.csproj", "{3E3068F1-1AAD-473E-9E7D-41E541340BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4918663-FF61-44D3-8B7F-F8D4605052EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4918663-FF61-44D3-8B7F-F8D4605052EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4918663-FF61-44D3-8B7F-F8D4605052EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4918663-FF61-44D3-8B7F-F8D4605052EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3068F1-1AAD-473E-9E7D-41E541340BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3068F1-1AAD-473E-9E7D-41E541340BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3068F1-1AAD-473E-9E7D-41E541340BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3068F1-1AAD-473E-9E7D-41E541340BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
