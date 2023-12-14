@@ -22,7 +22,7 @@ foreach (var length in lengths)
 {
     foreach (var disorder in disorders)
     {
-        for (var j = 0; j < 10; j++)
+        for (var j = 0; j < 15; j++)
         {
             var list = RandomSet.GenerateList(length, disorder);
             
